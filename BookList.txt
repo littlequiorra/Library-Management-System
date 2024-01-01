@@ -1,0 +1,162 @@
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:LELAKI KIRIMAN TUHAN
+Book Publisher:WAFIR
+Book Author:DZIHNI
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:LELAKI KIRIMAN TUHAN
+Book Publisher:AA
+Book Author:AZ
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:lelaki kiriman tuhan
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:lelaki kiriman tuhan
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:lelaki
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:lelaki kiriman tuhan
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:LELAKI BUDIMAN
+Book Publisher:AA
+Book Author:AZ
+
+ LIST OF BOOK ADDED  LIST OF BOOK ADDED  LIST OF BOOK ADDED  LIST OF BOOK ADDED  LIST OF BOOK ADDED 
+Book ID:1
+Book Title:mahu
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:aku
+Book Publisher:aa
+Book Author:az
+
+
+Book ID:4
+Book Title:kau
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:asad
+Book Publisher:as
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:123
+Book Title:kau gila
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:1233
+Book Title:asad
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:123
+Book Title:melur
+Book Publisher:aa
+Book Author:az
+
+
+Book ID:1234
+Book Title:marah
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:123
+Book Title:wafir
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:123
+Book Title:aaa
+Book Publisher:az
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:123
+Book Title:aaa
+Book Publisher:az
+Book Author:aasd
+
+ LIST OF BOOK ADDED 
+Book ID:123
+Book Title:firdaus untuk melur
+Book Publisher:aa
+Book Author:az
+
+ LIST OF BOOK ADDED 
+Book ID:123
+Book Title:farah
+Book Publisher:aa
+Book Author:as
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:sda
+Book Publisher:aa
+Book Author:as
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:Cubaan
+Book Publisher:Zul
+Book Author:Conen
+
+
+Book ID:2
+Book Title:yeet
+Book Publisher:1
+Book Author:2sras
+
+
+Book ID:3
+Book Title:dasds
+Book Publisher:sa
+Book Author:d
+
+ LIST OF BOOK ADDED 
+Book ID:1
+Book Title:Cubaan
+Book Publisher:Zul
+Book Author:Conen
+
+
+Book ID:2
+Book Title:yeet
+Book Publisher:1
+Book Author:2sras
+
+
+Book ID:3
+Book Title:dasds
+Book Publisher:sa
+Book Author:d
+

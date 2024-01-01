@@ -1,0 +1,54 @@
+ LIST OF Borrower 
+Book ID:b032110169
+Book Publisher:mahmor
+Book Title:lelaki kiriman tuhan
+Book Author:23 may 2002
+
+ LIST OF Borrower 
+Book ID:b032110169
+Book Publisher:mahmor
+Book Title:lelaki kiriman tuhan
+Book Author:23 may 2003
+
+ LIST OF Borrower 
+Book ID:b032110169
+Book Publisher:mahmor
+Book Title:lelaki kiriman tuhan
+Book Author:23 may 2002
+
+ LIST OF Borrower 
+Book ID:B032110169
+Book Publisher:MAHMOR
+Book Title:LELAKI BUDIMAN
+Book Author:23 MAY 2002
+
+ LIST OF BORROWER  LIST OF BORROWER  LIST OF BORROWER  LIST OF BORROWER 
+Book ID:b032
+Book Publisher:wafir
+Book Title:asad
+Book Author:23/4
+
+ LIST OF BORROWER 
+Book ID:b032
+Book Publisher:wafir
+Book Title:kau gila
+Book Author:24/3
+
+ LIST OF BORROWER 
+Book ID:b032
+Book Publisher:mahmor
+Book Title:aku
+Book Author:23/04
+
+ LIST OF BORROWER 
+Book ID:b032
+Book Publisher:mahmor
+Book Title:kamu
+Book Author:23/04
+
+ LIST OF BORROWER 
+Book ID:b032
+Book Publisher:wafir
+Book Title:mahmor 
+Book Author:23/4/2022
+
